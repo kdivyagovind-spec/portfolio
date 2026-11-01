@@ -1,87 +1,48 @@
 # K Divya | Personal Portfolio
 
-<p align="center">
-Welcome to my personal portfolio!
-</p>
+A personal portfolio website showcasing my background, technical skills, projects, education, and achievements as a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at REVA University, Bengaluru.
 
-<p align="center">
-  This website showcases my academic journey, projects, technical skills, and experiences as a Computer Science (AI & ML) student at REVA University, Bengaluru.
-</p>
+## Overview
 
-##📌 What's Inside
+This portfolio serves as a central space to explore my academic journey, technical interests, and projects. It reflects my ongoing learning in software development, computer science fundamentals, web technologies, and AI/ML.
 
-About Me — A brief introduction and my academic background.
+## Features
 
-Skills — Technologies and tools I have worked with.
-
-Projects — A showcase of my projects and implementations.
-
-Education — My academic journey.
-
-Achievements — Highlights of my accomplishments.
-
-Contact — Ways to connect with me.
-
-## ✨ Highlights
-
-- Professional introduction and profile
-- Technical skills and areas of interest
+- Introduction and professional profile
+- About me and technical skills
 - Projects and development work
-- Academic background and achievements
-- Links to professional and coding profiles
-- Responsive design and interactive elements
+- Education and achievements
+- Professional and coding profiles
+- Responsive layout
+- Interactive website elements
 
-## 🛠️ Technologies
+## Technologies Used
 
-| Technology | Purpose |
-|---|---|
-| HTML5 | Structure and content |
-| CSS3 | Styling and layout |
-| JavaScript | Interactivity |
+- HTML5
+- CSS3
+- JavaScript
 
-## 🚀 Explore
+## Live Website
 
-- **Portfolio Website:** [View Live Portfolio](YOUR_VERCEL_URL)
-- **GitHub:** [Explore My Repositories](https://github.com/kdivyagovind-spec)
-- **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/k-divya-b35239384/)
-- **LeetCode:** [View My Profile](https://leetcode.com/u/DIVYA_07_/)
+[View My Portfolio](ADD_YOUR_VERCEL_URL_HERE)
 
-## 📂 Project Structure
+## Repository
 
-```text
-portfolio/
-├── index.html
-├── resume.pdf
-├── preview.png
-└── README.md
-```
+[GitHub Repository](https://github.com/kdivyagovind-spec/portfolio)
 
-## 💻 Run Locally
+## Running Locally
 
-To view the portfolio locally:
+1. Clone this repository.
+2. Open the project folder.
+3. Open `index.html` in a web browser.
 
-1. Clone the repository:
+## Author
 
-   ```bash
-   git clone https://github.com/kdivyagovind-spec/portfolio.git
-   ```
+**K Divya**
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd portfolio
-   ```
-
-3. Open `index.html` in your web browser.
-
-## 👩‍💻 Author
-
-**K Divya**  
 Computer Science (AI & ML) Undergraduate  
-REVA University · Bengaluru, India
+REVA University, Bengaluru
 
----
-
-<p align="center">
-  <em>Learning, building, and growing through every project.</em>
-</p>
+- [GitHub](https://github.com/kdivyagovind-spec)
+- [LinkedIn](https://www.linkedin.com/in/k-divya-b35239384/)
+- [LeetCode](https://leetcode.com/u/DIVYA_07_/)
