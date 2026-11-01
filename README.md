@@ -1,25 +1,26 @@
 # K Divya | Personal Portfolio
 
 <p align="center">
-  <strong>Computer Science (AI & ML) Undergraduate</strong><br>
-  REVA University · Bengaluru, India
+Welcome to my personal portfolio!
 </p>
 
 <p align="center">
-  A personal portfolio showcasing my academic journey, technical skills, projects, and achievements.
+  This website showcases my academic journey, projects, technical skills, and experiences as a Computer Science (AI & ML) student at REVA University, Bengaluru.
 </p>
 
----
+##📌 What's Inside
 
-## 👋 About
+About Me — A brief introduction and my academic background.
 
-Welcome to my personal portfolio!
+Skills — Technologies and tools I have worked with.
 
-I’m a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at REVA University, Bengaluru.
+Projects — A showcase of my projects and implementations.
 
-My interests include software development, computer science fundamentals, web technologies, and AI/ML. I’m focused on strengthening my technical foundation, exploring new concepts, and applying what I learn through practical projects.
+Education — My academic journey.
 
-This portfolio brings together my background, skills, projects, and ongoing learning journey in one place.
+Achievements — Highlights of my accomplishments.
+
+Contact — Ways to connect with me.
 
 ## ✨ Highlights
 
