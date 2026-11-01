@@ -1,48 +1,49 @@
-# K Divya | Personal Portfolio
+# ✨ K Divya | Personal Portfolio
 
-A personal portfolio website showcasing my background, technical skills, projects, education, and achievements as a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at REVA University, Bengaluru.
+Welcome to my personal portfolio repository.
 
-## Overview
+This portfolio website showcases my academic background, technical skills, projects, and achievements as a Computer Science (AI & ML) student at REVA University, Bengaluru.
 
-This portfolio serves as a central space to explore my academic journey, technical interests, and projects. It reflects my ongoing learning in software development, computer science fundamentals, web technologies, and AI/ML.
+## 🌐 Live Website
 
-## Features
+🔗 [Visit My Portfolio](https://portfolio-pink-two-45.vercel.app/)
 
-- Introduction and professional profile
-- About me and technical skills
-- Projects and development work
-- Education and achievements
-- Professional and coding profiles
-- Responsive layout
-- Interactive website elements
+## 📌 Portfolio Sections
 
-## Technologies Used
+- 👩‍💻 **About** — Introduction and academic background
+- 🛠️ **Skills** — Technical skills and technologies
+- 💡 **Projects** — Selected projects and practical implementations
+- 🎓 **Education** — Academic details
+- 🏆 **Achievements** — Accomplishments and milestones
+- 📬 **Contact** — Professional contact information
+
+## 🧰 Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Live Website
+## 📂 Project Structure
 
-[View My Portfolio](ADD_YOUR_VERCEL_URL_HERE)
+```text
+portfolio/
+├── index.html
+├── resume.pdf
+├── preview.png
+└── README.md
+```
 
-## Repository
-
-[GitHub Repository](https://github.com/kdivyagovind-spec/portfolio)
-
-## Running Locally
+## 🚀 Run Locally
 
 1. Clone this repository.
-2. Open the project folder.
-3. Open `index.html` in a web browser.
+2. Navigate to the project directory.
+3. Open `index.html` in your browser.
 
-## Author
+## 👩‍💻 Author
 
 **K Divya**
 
 Computer Science (AI & ML) Undergraduate  
 REVA University, Bengaluru
 
-- [GitHub](https://github.com/kdivyagovind-spec)
-- [LinkedIn](https://www.linkedin.com/in/k-divya-b35239384/)
-- [LeetCode](https://leetcode.com/u/DIVYA_07_/)
+📌 *A portfolio showcasing my academic journey, technical skills, and projects.*
